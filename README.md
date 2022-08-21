@@ -16,7 +16,7 @@ A JavaScript library for arbitrary-precision decimal and non-decimal arithmetic.
   - Wide platform compatibility: uses JavaScript 1.5 (ECMAScript 3) features only
   - Comprehensive [documentation](http://fawaz404dev.github.io/bignumber.js/) and test set
 
-![API](https://raw.githubusercontent.com/fawaz404dev/bignumber.js/gh-pages/API.png)
+![API](https://github.com/fawaz404dev/bignumber.js/blob/main/API.png)
 
 If a smaller and simpler library is required see [big.js](https://github.com/fawaz404dev/big.js/).
 It's less than half the size but only works with decimal numbers and only has half the methods.
